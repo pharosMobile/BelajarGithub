@@ -10,6 +10,6 @@ public class KetigaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ketiga);
-        Toast.makeText(this, "vwrgthtgeas", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "tes1", Toast.LENGTH_SHORT).show();
     }
 }
