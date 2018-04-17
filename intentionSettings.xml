@@ -3,5 +3,6 @@
     <ignoreAction name="Java/Control Flow/Create switch statement" />
     <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
     <ignoreAction name="Java/Declaration/Generate missed test methods" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
   </component>
 </application>
