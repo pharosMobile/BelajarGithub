@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/PharmanetID/adminb2b.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CustomerSkripsi/Customer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\Desktop\" />
