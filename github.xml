@@ -6,5 +6,8 @@
     <account id="8a4c9804-4a8f-4783-ba4f-d22c2ea010ec" name="jasonjiu">
       <server host="github.com" />
     </account>
+    <account id="007c725f-c956-40a8-8b57-9bfa47b9177e" name="suantony">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
