@@ -8,7 +8,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="forpharosmobile@gmail.com" />
+          <option name="userName" value="suantony" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/ProjectOwner/OwnerProjectAndroidV2.0.git" />
@@ -36,6 +36,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/pharosdeveloper/MemberCentury.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pharosdeveloper/OwnerProjectAndroidV2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
